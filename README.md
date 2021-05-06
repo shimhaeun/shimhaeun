@@ -14,7 +14,7 @@
 <!--소스코드 게시 1-->
 소스코드는 그냥 작성하지 않고 tab키를 이용해 들여쓰기를 해서 작성하면 자동으로 소스코드로 인식됨
 
-  System.out.println("Hello Github);
+  System.out.println("Hello Github");
   
 여기서부턴 일반 텍스트
 

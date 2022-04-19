@@ -3,11 +3,11 @@
 <!--
 **shimhaeun/shimhaeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--텍스트 적기-->
-텍스트는 그냥 작성하면 12포인트로 작성됨.
+Haeun
 <!--제목-->
-# 안녕하세요 심하은입니다.
+# Hello !
 <h1></h1>
-## 두개를 쓰면 
+## frontend 
 <h2>h2태그로 감싼 효과가 납니다.</h2>
 즉 h6까지 있으므로, #도 6개까지 쓸 수 있음
 
@@ -48,8 +48,6 @@
  -------------
  구분선 후
  
-
-
 
 Here are some ideas to get you started:
 

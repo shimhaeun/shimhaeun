@@ -12,7 +12,7 @@ Haeun
 즉 h6까지 있으므로, #도 6개까지 쓸 수 있음
 
 <!--소스코드 게시 1-->
-소스코드는 그냥 작성하지 않고
+<!--소스코드는 그냥 작성하지 않고
 ``` ``` 사이에 작성(1왼쪽의 물결표시 내지는 홑점)
 
 ```
@@ -46,17 +46,17 @@ Haeun
  <!--구분선-->
  구분선 전
  -------------
- 구분선 후
+ 구분선 후--!>
  
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React, React Native, Nodejs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: haeun62433@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

@@ -1,13 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Haeun%20Shim&fontSize=60)
 ### Hi there 👋
 
+<h2>Junior frontend Engineer</h2>
+
+<img src="https://img.shields.io/badge/#61DAFB?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 <!--
 **shimhaeun/shimhaeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--텍스트 적기-->
-Haeun
-<!--제목-->
+
 # Hello !
-<h1></h1>
-## frontend 
+
 <h2>h2태그로 감싼 효과가 납니다.</h2>
 즉 h6까지 있으므로, #도 6개까지 쓸 수 있음
 
@@ -32,11 +33,8 @@ Haeun
 
 
  <!--순서 없는 목록1(+)-->
- + 안녕하세요
-  + 반갑습니다
-  + 반갑다구요
-    + 반가움
-    + ㅇㅇ
+
+
    
  <!--순서 없는 목록2(*)-->
  * 안녕하세요

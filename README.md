@@ -8,6 +8,7 @@
 **shimhaeun/shimhaeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hello !
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshimhaeun%2F&count_bg=%23FFCDFC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2>h2태그로 감싼 효과가 납니다.</h2>
 즉 h6까지 있으므로, #도 6개까지 쓸 수 있음

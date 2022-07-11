@@ -1,5 +1,5 @@
 <center>
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Haeun%20Shim&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Haeun%20Shim&fontSize=60)
 ### 👋
 
 <h2>Junior frontend Engineer</h2>
